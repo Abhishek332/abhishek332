@@ -85,9 +85,9 @@ HSTS)
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-porwal-213726194/)
 <!-- - 🌐 [Portfolio](#) _(coming soon)_ -->
-- 📝 [Blog / Articles](#https://abhishekporwal.hashnode.dev/)
+- 📝 [Blog / Articles](https://abhishekporwal.hashnode.dev/)
 
 ---
 
