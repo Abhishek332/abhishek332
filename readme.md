@@ -87,7 +87,7 @@ HSTS)
 
 - 💼 [LinkedIn](#)
 <!-- - 🌐 [Portfolio](#) _(coming soon)_ -->
-- 📝 [Blog / Articles](#) _(https://abhishekporwal.hashnode.dev/)_
+- 📝 [Blog / Articles](#https://abhishekporwal.hashnode.dev/)
 
 ---
 
