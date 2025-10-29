@@ -2,7 +2,7 @@
 
 🚀 **Frontend Engineer | Aspiring Full-Stack Developer | AI Explorer**
 
-I have **2.5 years of experience as a Frontend Engineer**, working with
+I have around **3 years of experience as a Frontend Engineer**, working with
 **React.js, Next.js, TypeScript**, and modern UI frameworks.  
 Alongside frontend, I’ve contributed to **MERN stack projects** and I’m now
 leveling up towards **Full-Stack Development with AI-powered features**.
