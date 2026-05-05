@@ -28,20 +28,20 @@ Currently, I’m moving towards **full-stack engineering with AI-powered systems
 ---
 
 ## ⚡ Selected Work & Impact
+### 🔐 Javelin — AI Security & Observability Platform
+- Owned major frontend modules like **Live Traces, Threats Dashboard, Analytics Dashboards, Audit System, Red Team Scan and Reports System**
+- Built **data-heavy dashboards** handling complex state & async flows
+- Improved **frontend security posture** (CSP, headers, best practices)
+- Contributed to **test coverage (Playwright)** improving release confidence
+- Actively worked on **performance bottlenecks and UX inconsistencies**
+
+---
+
 ### 🏏 12th Men — Real-Time Cricket Platform
 
 - Built **real-time match overlay system** for live cricket data
 - Owned **fantasy feature end-to-end (frontend + backend)**
 - Designed backend flows for **player stats & career data management**
-
----
-
-### 🔐 Javelin — Security & Observability Platform
-- Owned major frontend modules like **Traces, Threat Dashboard, and Reports**
-- Built **data-heavy dashboards** handling complex state & async flows
-- Improved **frontend security posture** (CSP, headers, best practices)
-- Contributed to **test coverage (Playwright)** improving release confidence
-- Actively worked on **performance bottlenecks and UX inconsistencies**
 
 ---
 
