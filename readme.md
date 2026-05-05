@@ -27,6 +27,13 @@ Currently, I’m moving towards **full-stack engineering with AI-powered systems
 ---
 
 ## ⚡ Selected Work & Impact
+### 🏏 12th Men — Real-Time Cricket Platform
+
+- Built **real-time match overlay system** for live cricket data
+- Owned **fantasy feature end-to-end (frontend + backend)**
+- Designed backend flows for **player stats & career data management**
+
+---
 
 ### 🔐 Javelin — Security & Observability Platform
 - Owned major frontend modules like **Traces, Threat Dashboard, and Reports**
