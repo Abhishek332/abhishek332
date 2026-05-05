@@ -20,7 +20,8 @@ Currently, I’m moving towards **full-stack engineering with AI-powered systems
 ## 🛠️ What I Work With
 
 **Frontend:** React.js, Next.js, TypeScript, Redux, TailwindCSS  
-**Backend:** Node.js, Express, MongoDB, MySQL, PostgreSQL, ORMS (Prishma, SQLite) 
+**Backend:** Node.js, Express, MongoDB, MySQL, PostgreSQL, ORMS (Prishma, SQLite)
+
 **Testing:** Jest, Playwright, Cypress  
 **Focus Areas:** Performance, System Design Thinking, API Efficiency, Security
 
